@@ -10,6 +10,7 @@ Description and scheme of the developed infrastructure.
 
 ## Preview
 
+
 Screenshots of configured AWS services. Screenshots of your application running.
 
 ![Sample image](img/sample-image.png)
